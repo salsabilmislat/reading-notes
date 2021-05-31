@@ -7,7 +7,7 @@
  
  which mean how much you give you will take. so we should keep in mind that you are the only one who is responsible for your mind you could leave it idle 😑 or develop it 🧐 . 
  
- ## for myself to keep  in a growth mindset
+ # for myself to keep  in a growth mindset
  1. never gave up
  2. put more effort
  3. explore more and more
@@ -21,4 +21,4 @@ I am seeking in this tearm to be able to keep up with the trend that the world i
 😊
 nice to meet you all* 
 
-https://github.com/salsabilmislat
+[ This my GH](https://github.com/salsabilmislat)
