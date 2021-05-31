@@ -8,14 +8,14 @@
 
 _____
 ##  meaning of Markdown language
-*it is a language allow you to creat a text with styles, to control your document such as formatting words as bold or italic, adding images, and creating lists.*
+*it is a language allow you to create a text with styles, to control your document such as formatting words as bold or italic, adding images, and creating lists.*
 
 ______
 ## Learning about GitHub website
-*GitHub is a website or webapp for developers or company to share information and codes.*
+*GitHub is a website or web app for developers or company to share information and codes.*
 
 **Things that you could do in GitHub website**
-*- creat files and write in them* 
+*- create files and write in them* 
 *- share your code or your files with others*
 *- plat form gives us the ability to store projects or files* 
 *- work as team there*
