@@ -5,7 +5,7 @@
  - good strategies 
  - a desire to learn 
  
- which mean how much you give you will take. so we should keep in mind that you are the only one who is responsible for your mind you could leave it idle 😑  or develop it 🧐 . 
+ which mean how much you give you will take. so we should keep in mind that you are the only one who is responsible for your mind you could leave it idle 😑 or develop it 🧐 . 
  
  ## for myself to keep  in a growth mindset
  1. never gave up
@@ -20,3 +20,5 @@
 I am seeking in this tearm to be able to keep up with the trend that the world is up to by using the technology as possible as we can in our all life aspects.
 😊
 nice to meet you all* 
+
+https://github.com/salsabilmislat
