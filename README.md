@@ -10,7 +10,8 @@
  1. never gave up
  2. put more effort
  3. explore more and more
-***********************
+
+
 **Hello everyone,**
 
 my name is salsabil mislat , I graduated from university of Jordan, my major is English-literature and Chinese language. 
