@@ -12,9 +12,9 @@
  3. explore more and more
 
 
-**Hello everyone,**
+***Hello everyone,***
 
-my name is salsabil mislat , I graduated from university of Jordan, my major is English-literature and Chinese language. 
+*my name is salsabil mislat , I graduated from university of Jordan, my major is English-literature and Chinese language. 
 I am seeking in this tearm to be able to keep up with the trend that the world is up to by using the technology as possible as we can in our all life aspects.
 😊
-nice to meet you all 
+nice to meet you all* 
