@@ -15,10 +15,10 @@ ______
 *GitHub is a website or web app for developers or company to share information and codes.*
 
 **Things that you could do in GitHub website**
-*- create files and write in them* 
-*- share your code or your files with others*
-*- plat form gives us the ability to store projects or files* 
-*- work as team there*
+- create files and write in them 
+- share your code or your files with others
+- plat form gives us the ability to store projects or files 
+- work as team there
 
 
 _______
