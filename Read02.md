@@ -19,6 +19,6 @@ __________________
 __________________
 
 ## Git basic command 
-+ git add.
-+ git commit-m "the massage"
++ git add .
++ git commit -m "the massage"
 + git push origin main

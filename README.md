@@ -8,7 +8,7 @@ nice to meet you all***
 __________________
 
 # A Gide Of The Topics 102
-- [The Growth Mindset]()
-- [The Markdown language]()
-- [The Git intro summary]()
+- [The Growth Mindset](https://salsabilmislat.github.io/reading-notes/growthmindset)
+- [The Markdown language](https://salsabilmislat.github.io/reading-notes/Read01)
+- [The Git intro summary](https://salsabilmislat.github.io/reading-notes/Read02)
 - [ This my GitHub account ](https://github.com/salsabilmislat)
