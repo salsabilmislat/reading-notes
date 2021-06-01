@@ -15,5 +15,5 @@ __________________
 | The Growth Mindset      | [Growth mindset](https://salsabilmislat.github.io/reading-notes/growthmindset)       |
 | The Markdown language   | [Read 01](https://salsabilmislat.github.io/reading-notes/Read01)       |
 | The Git intro summary | [Read 02](https://salsabilmislat.github.io/reading-notes/Read02) |
-| Structure web pages with HTML | [Read 03]() 
+| Structure web pages with HTML | [Read 03](https://salsabilmislat.github.io/reading-notes/Read03) 
 | This my GitHub account |[ 😎 ](https://github.com/salsabilmislat)  |
