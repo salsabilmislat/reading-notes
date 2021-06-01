@@ -8,6 +8,8 @@ nice to meet you all***
 __________________
 
 # A Gide Of The Topics 102
+
+
 | Topic      | The Link |
 | ----------- | ----------- |
 | The Growth Mindset      | [Growth mindset](https://salsabilmislat.github.io/reading-notes/growthmindset)       |
