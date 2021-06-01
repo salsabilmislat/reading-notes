@@ -10,7 +10,7 @@
  
  ________________
  
- ## for myself to keep  in a growth mindset
+ *** for myself to keep  in a growth mindset***
  1. never gave up
  2. put more effort
  3. explore more and more
