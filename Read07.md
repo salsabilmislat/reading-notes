@@ -15,7 +15,7 @@
    
   _______________
 
-     + **How a function decleration statement looks**
+     - **How a function decleration statement looks**
      
 
      function name(parameter1, parameter2, parameter3) 
@@ -26,7 +26,7 @@
 
 
 
-   + ***function expression***
+   - ***function expression***
 
    _______
 
