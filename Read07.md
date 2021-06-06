@@ -15,7 +15,7 @@
    
   _______________
 
-     - **How a function decleration statement looks**
+  + **How a function decleration statement looks**
      
 
      function name(parameter1, parameter2, parameter3) 
@@ -30,7 +30,7 @@
 
    _______
 
-     **How a function expression statement looks**
+  + **How a function expression statement looks**
 
      var name=function(parameter1.....) 
      { code
@@ -44,6 +44,6 @@
    
    + ***The differences***
 
-   *there is somthing called hoisting which means : we could reorderd the code some how to be able to run it in the correctly way, if we put it anywhere in function decleration, but for the function expression we can not call it before the function itself *
+   *there is somthing called hoisting which means : we could reorderd the code some how to be able to run it in the correctly way, if we put it anywhere in function decleration, but for the function expression we can not call it before the function itself*
 
    
