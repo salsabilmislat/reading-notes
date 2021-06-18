@@ -1,9 +1,11 @@
 ***Hello everyone 😀***
 
-***my name is salsabil mislat ,I am 25 years old. I graduated from university of Jordan, my major is English-literature and Chinese language. 
-I am seeking in this course to be able to keep up with the trend that the world is up to by using the technology as possible as we can in our all life aspects.*** 
+***my name is salsabil mislat ,I am 25 years old. I graduated from university of Jordan, my major is English-literature and Chinese language.*** 
+
+***I am seeking in this course to be able to keep up with the trend that the world is up to by using the technology as possible as we can in our all life aspects.*** 
 
 😊***nice to meet you all***
+
 
 __________________
 
@@ -28,7 +30,7 @@ __________________
 
 | Topic      | The Link |
 | ----------- | ----------- |
-| Read201 | ----------- |
+| HTML&JS |[ Read201 ](https://salsabilmislat.github.io/reading-notes/Read201) |
 | Read202 | ----------- |
 | Read203 | ----------- |
 | Read204 | ----------- |
@@ -43,4 +45,3 @@ __________________
 | Read2013 | ----------- |
 | Read2014 | ----------- |
 | Read2015 | ----------- |
-
