@@ -65,10 +65,10 @@ ______
   + **allows you to group a set of elements together in one block-level box.**
 
 ***The <span> element:***
-  + **acts like an inline equivalent of the <div> element**
+  + **acts like an inline equivalent of the <div> element.**
 
 ***IFrames:***
-  + **An iframe is like a little window that has been cut into your page is to embed a Google Map into a page**
+  + **An iframe is like a little window that has been cut into your page is to embed a Google Map into a page.**
 
 _______________
 ## HTML5 layout
@@ -87,11 +87,11 @@ _______________
 
  + **The <article> element**
 
-  *acts as a container for any section of a page that could stand alone and potentially be syndicated*
+  *acts as a container for any section of a page that could stand alone and potentially be syndicated.*
 
  + **The <section> element groups**
 
-  *related content together, and typically each section would have its own heading*
+  *related content together, and typically each section would have its own heading.*
 
 ______________________
 ## Process & design
@@ -117,9 +117,9 @@ __________
  
  **First: Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object's properties.** 
 
- **Second: to make web page interactive, you write code that uses the browser's model of the web page**
+ **Second: to make web page interactive, you write code that uses the browser's model of the web page.**
 
 ***How to write script for a web page?***
 
- **you can link it in When you want to use JavaScript with a web page you use the HTML <script> element to tell the browser it is coming across a script. Its src attribute tells people where the JavaScript file is stored**
+ **you can link it in When you want to use JavaScript with a web page you use the HTML <script> element to tell the browser it is coming across a script. Its src attribute tells people where the JavaScript file is stored.**
 
