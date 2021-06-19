@@ -5,8 +5,10 @@
 - HTML5 layout
 - Process & design
 
-The source of this sammary [the Duckett HTML book](https://wtf.tw/ref/duckett.pdf)
-__________
+The source of this summary [the Duckett HTML book](https://wtf.tw/ref/duckett.pdf)
+
+
+___________________________________
 
 ## HTML structure
 **as duckett said:**
@@ -59,13 +61,13 @@ ______
 
 ***inline elements***
   
-  + **Examples of inline elements are <a>, <b>, <em>, and <img>**
+  + **Examples of inline elements are <a>,<b>,<em>,and <img>**
 
 ***The <div> element:*** 
-  + **allows you to group a set of elements together in one block-level box.**
+  + **allows you to group a set of elements together in one block-level box**
 
 ***The <span> element:***
-  + **acts like an inline equivalent of the <div> element.**
+  + **acts like an inline equivalent of the <div> element**
 
 ***IFrames:***
   + **An iframe is like a little window that has been cut into your page is to embed a Google Map into a page.**
@@ -105,7 +107,7 @@ ___________________________________
 #  What we will learn part 2:
  - The ABC of Programming
 
-The source of this sammary [the Duckett JS book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F0263V3S9J4/javascript_and_jquery__interactive_front-end_web_development_.pdf?c=1624027087-dd32dd0afa631c65)
+The source of this summary [the Duckett JS book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F0263V3S9J4/javascript_and_jquery__interactive_front-end_web_development_.pdf?c=1624027087-dd32dd0afa631c65)
 __________
  ***What is a script?***
 
@@ -121,5 +123,5 @@ __________
 
 ***How to write script for a web page?***
 
- **you can link it in When you want to use JavaScript with a web page you use the HTML <script> element to tell the browser it is coming across a script. Its src attribute tells people where the JavaScript file is stored.**
+**you can link it in When you want to use JavaScript with a web page you use the HTML <script> element to tell the browser it is coming across a script. Its src attribute tells people where the JavaScript file is stored**
 
