@@ -1,41 +1,37 @@
-# A short review About JavaScript 
+# A short review About JavaScript
 
 1. ***Definition***
 
+    * JavaScript is an asynchronous, dynamically-typed, interpreted scripting language, designed to make web pages dynamic and interactive. also multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.
 
-   *  JavaScript is an asynchronous, dynamically-typed, interpreted scripting language, designed to make web pages dynamic and interactive. also multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.
+2. ***The Data type for JS***
 
+     * ***Number***
 
+       *represents numeric values e.g. 100.*
 
-2. ***The Data type for JS ***
-   
-   + ***Number***
+     * ***String***
 
-   *represents numeric values e.g. 100.*
+       *represents sequence of characters e.g. "hello" ,'1'*
 
-   + ***String***
+     * ***Boolean***
+       *represents boolean value either false or true*
 
-   *represents sequence of characters e.g. "hello" ,'1'*
-   
-   + ***Boolean	***
-   *represents boolean value either false or true*
+     * ***operators***
 
-   + ***operators***
-      * *arthmatic operators : - *  + / *
-      * *assigment operators : where i can assgin variabels to thier valus (=)*
+       1. *arthmatic operators : -*  + / *
 
+       2. *assigment operators : where i can assgin variabels to thier valus (=)*
 
-   
+3. ***pop up boxestype***
 
+    * *alert box*
 
-3. ***pop up boxestype ***
+    * *prompt box*
 
-   + *alert box* 
-   + *prompt box*
- 
- 4. ***conditinal statment***
-   
-  ** EXAMPLE**
+4. ***conditinal statment***
+
+    **EXAMPLE**
 
 if ("cat" === "dog") {
       var outcome = "if block";
