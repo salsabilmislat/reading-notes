@@ -14,22 +14,22 @@ ______________________________________
 
 ***Structural markup***
 
-1. heading: reprisented by  [h1, h2, h3... h6]
+1. heading: represented by  [h1, h2, h3... h6]
 
-2. paragraph: reprisented by [p]
+2. paragraph: represented by [p]
 
-3. Bold & Italic: reprisented by [(b) for bold text , (i) for italic text ]
+3. Bold & Italic: represented by [(b) for bold text , (i) for italic text ]
 
-4. Line Breaks & Horizontal Rules: reprisented by [(br /) break line , (hr /) horizontal rule ]
+4. Line Breaks & Horizontal Rules: represented by [(br /) break line , (hr /) horizontal rule ]
 
 ***Semantic Markup***
 *There are some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages.*
 
-1. Strong & Emphasis: reprisented by [(strong) content has strong importance , (em) indicates emphasis that subtly changes the meaning of a sentence ]
+1. Strong & Emphasis: represented by [(strong) content has strong importance , (em) indicates emphasis that subtly changes the meaning of a sentence ]
 
-2. Quotations: reprisented by [(blockquote) used for longer quotes that take up an entire paragraph , (q) shorter quotes that sit within a paragraph ]
+2. Quotations: represented by [(blockquote) used for longer quotes that take up an entire paragraph , (q) shorter quotes that sit within a paragraph ]
 
-3. Changes to Content: reprisented by [(ins) to show content that has been inserted into a document, (del)  show text that has been deleted from it, (s) something that is no longer accurate or relevant (but that should not be deleted)]
+3. Changes to Content: represented by [(ins) to show content that has been inserted into a document, (del)  show text that has been deleted from it, (s) something that is no longer accurate or relevant (but that should not be deleted)]
 
 ___________________;
 
@@ -68,13 +68,13 @@ h1 {
 
 _____________________________;
 
-# What we will learn part 2
+## What we will learn part 2
 
 - Basic JavaScript Instructions
 
 - Decisions and Loops
 
-The source of this summary [the Duckett JS book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F0263V3S9J4/javascript_and_jquery__interactive_front-end_web_development_.pdf?c=1624027087-dd32dd0afa631c65)
+The source of this summary [the Duckett JS book](file:///C:/Users/STUDENT/Downloads/JavaScript%20and%20JQuery_%20Interactive%20Front-End%20Web%20Development_.pdf)
 
 ___________________;
 
@@ -97,9 +97,9 @@ ___________________;
 
  4. ***operators***
 
-       1. *arthmatic operators : -*  + / *
+       1. *arithmatic operators : -*  + / *
 
-       2. *assigment operators : where i can assgin variabels to thier valus (=)*
+       2. *assignment operators : where i can assgin variabels to thier valus (=)*
 
 ***pop up boxestype***
 
@@ -135,7 +135,7 @@ __________________________;
 
 ***conditinal IF... Else statment***
 
-    **EXAMPLE**
+    EXAMPLE
 
 if ("cat" === "dog") {
       var outcome = "if block";
@@ -144,5 +144,5 @@ if ("cat" === "dog") {
 }
 outcome;
 
-    **OUTPUT**
+    OUTPUT
 "if block"

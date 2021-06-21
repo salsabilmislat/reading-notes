@@ -99,11 +99,11 @@ ______________________;
 
 ___________________________________
 
-# What we will learn part 2
+## What we will learn part 2
 
 - The ABC of Programming
 
-The source of this summary [the Duckett JS book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F0263V3S9J4/javascript_and_jquery__interactive_front-end_web_development_.pdf?c=1624027087-dd32dd0afa631c65)
+The source of this summary [the Duckett JS book]file:///C:/Users/STUDENT/Downloads/JavaScript%20and%20JQuery_%20Interactive%20Front-End%20Web%20Development_.pdf)
 __________;
 
  ***What is a script?***
