@@ -12,16 +12,16 @@ ______________________________________
 
 Three different types of list:
 
-1. Ordered listsare: lists where each item in the list is numbered.
+1. Ordered list: lists where each item in the list is numbered.
     represented by [ol] Each item in the list is placed between an opening [li] tag and a closing [/li] tag
 
 2. Unordered Lists: lists that begin with a bullet point (rather than characters that indicate order).
    represented by [ul] Each item in the list is placed between an opening [li] tag and a closing [/li] tag
 
-3. Definition lists: made up of a set of terms along with thedefinitions for each of those terms.
+3. Definition lists: made up of a set of terms along with the definitions for each of those terms.
    represented by [dl] you will usually see pairs of [dt] the definition term and [dd]  This is used to contain the definition.
 
-4. Nested lists: You can put a second list inside an [li] element to create a sublist or nested list.
+4. Nested lists: You can put a second list inside an [li] element to create a sub list or nested list.
 
 ## CSS Boxes
 
@@ -31,7 +31,7 @@ Three different types of list:
 
      >Some page designs expand and shrink to fit the size of the user's screen. In such designs, the min-width property specifies the smallest size a box can be displayed at when the browser window is narrow, and the max-width property indicates the maximum width a box can stretch to when the browser window is wide.
 
-3. Limiting Height: min-height, max-height you also can controling the height as the width.
+3. Limiting Height: min-height, max-height you also can controlling the height as the width.
 
 4. overflow:
 
@@ -49,7 +49,7 @@ Three different types of list:
 
     - none This hides an element from the page.
 
-___________________________;
+______________________________________
 
 ## What we will learn part 2
 
@@ -59,14 +59,14 @@ ___________________________;
 
 The source of this summary [the Duckett JS book](file:///C:/Users/STUDENT/Downloads/JavaScript%20and%20JQuery_%20Interactive%20Front-End%20Web%20Development_.pdf)
 
-___________________;
+______________________________________
 
 ## Basic JavaScript Instructions
 
 - >An array is a special type of variable. It doesn't just store one value; it stores a list of values you can store a string, a number and a Boolean all in the same array.
 colors= ['white','black','custom'];
 
-___________________;
+______________________________________
 
 ## Decisions and Loops
 
@@ -92,7 +92,7 @@ ___________________;
 
 3. ! logical not
 
-***conditional IF... Else statment***
+***conditional IF... Else statement***
 
     EXAMPLE
 
@@ -152,7 +152,7 @@ outcome;
 
 ***DO WHILE LOOPS***
 
-- > The key difference betweena while loop and a do while loop is that the statements in the code block come before the condition. This means that those statements are run once whether or not the condition is met.
+- > The key difference between while loop and a do while loop is that the statements in the code block come before the condition. This means that those statements are run once whether or not the condition is met.
 
       How a while statement looks
          do {

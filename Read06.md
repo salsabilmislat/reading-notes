@@ -5,31 +5,31 @@
 
 2. ***Css syntax:***
 
- h1 {
-    color: red;
-}.
+ [h1 {
+    color: ;
+}.]
   
    ***How to add css in HTML file***
 
 * *external css*
   
-* <link rel="stylesheet" href="mystyle.css">
+      [link rel="stylesheet" href="my style.css"]
 
 * *inline css*
 
- *<h1 style="color:blue;text-align:center;">This is a heading</h1>*
+       *<h1 style="color:;text-align:;"></h1>*
   
 * *internal css*
 
-<style>
+       [style]
 
-body {
-  background-color: linen;
-}
+       body {
+       background-color: linen;
+       }
 
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
+         h1 {
+         color: maroon;
+         margin-left: 40px;
+         }
 
-</style>
+       [/style]

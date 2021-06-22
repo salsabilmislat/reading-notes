@@ -31,7 +31,7 @@ ______________________________________
 
 3. Changes to Content: represented by [(ins) to show content that has been inserted into a document, (del)  show text that has been deleted from it, (s) something that is no longer accurate or relevant (but that should not be deleted)]
 
-___________________;
+______________________________________
 
 ## Introducing CSS
 
@@ -42,21 +42,27 @@ ___________________;
 
    ***How to add css in HTML file***
 
-1. *external css* *<link rel="stylesheet" href="mystyle.css">*
+1. *external css*
 
-2. *inline css* *<h1 style="color:blue;text-align:center;">This is a heading</h1>*
+         [link rel="stylesheet" href="mystyle.css"]
+
+2. *inline css*
+
+         [h1 style="color:blue;text-align:center;" This is a heading][/h1>]
   
-3. *internal css* <style>
-body {
-  background-color: linen;
-}
+3. *internal css*
 
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
+         [style]
+         body {
+         background-color: linen;
+         }
 
-</style>
+         h1 {
+         color: maroon;
+         margin-left: 40px;
+         }
+
+         [/style]
 
 ***CSS Selectors type***
 
@@ -66,7 +72,7 @@ h1 {
 
 - ID Selector [ #introduction {} Targets the element whose id attribute has a value of introduction ]
 
-_____________________________;
+______________________________________
 
 ## What we will learn part 2
 
@@ -76,7 +82,7 @@ _____________________________;
 
 The source of this summary [the Duckett JS book](file:///C:/Users/STUDENT/Downloads/JavaScript%20and%20JQuery_%20Interactive%20Front-End%20Web%20Development_.pdf)
 
-___________________;
+______________________________________
 
 ## Basic JavaScript Instructions
 
@@ -97,17 +103,17 @@ ___________________;
 
  4. ***operators***
 
-       1. *arithmatic operators : -*  + / *
+       1. *arithmetic operators : -*  + / *
 
-       2. *assignment operators : where i can assgin variabels to thier valus (=)*
+       2. *assignment operators : where i can assign variables to their value (=)*
 
-***pop up boxestype***
+***pop up boxes type***
 
 1. *alert box*
 
 2. *prompt box*
 
-__________________________;
+______________________________________
 
 ## Decisions and Loops
 
@@ -133,16 +139,16 @@ __________________________;
 
 3. ! logical not
 
-***conditinal IF... Else statment***
+***conditional IF... Else statement***
 
     EXAMPLE
 
-if ("cat" === "dog") {
-      var outcome = "if block";
-} else {
-      var outcome = "else block";
-}
-outcome;
+          if ("cat" === "dog") {
+         var outcome = "if block";
+         } else {
+           var outcome = "else block";
+         }
+         outcome;
 
     OUTPUT
-"if block"
+     "if block"

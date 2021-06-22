@@ -25,15 +25,16 @@ insurance forms, shop catalogues...
 
  ***For the Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.***
 
-______________________;
+___________________________________
 
 ## Extra markup
 
 ***Duckett said:***
 >You may know that HTML stands for HyperText Markup Language. The HyperText part refers to the fact that HTML allows you to create links that allow visitors to move from one page to another quickly and easily. A markup language allows you to annotate text, and these annotations provide additional meaning to the contents of a document. If you think of a web page, we add code around the original text we want to display and the browser then uses the code to display the page correctly. So the tags we add are the markup.
 
-______;
- ***DOCTYPEs :***
+___________________________________
+
+ ***Doctype :***
 
 - **In mention of that about HTML versions, Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included)**
 
@@ -69,7 +70,7 @@ ______;
 ***IFrames:***
  **An iframe is like a little window that has been cut into your page is to embed a Google Map into a page.**
 
-_______________;
+___________________________________
 
 ## HTML5 layout
 
@@ -89,13 +90,13 @@ _______________;
   4. **The [section] element groups**
    *related content together, and typically each section would have its own heading.*
 
-______________________;
+___________________________________
 
 ## Process & design
 
 ***Duckett give us small summary of this topic:***
 
->It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return. Also design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them. For sure wireframes allow you to organize the information that will need to go on each page.
+>It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return. Also design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them. For sure wire frames allow you to organize the information that will need to go on each page.
 
 ___________________________________
 
@@ -104,7 +105,8 @@ ___________________________________
 - The ABC of Programming
 
 The source of this summary [the Duckett JS book]file:///C:/Users/STUDENT/Downloads/JavaScript%20and%20JQuery_%20Interactive%20Front-End%20Web%20Development_.pdf)
-__________;
+
+___________________________________
 
  ***What is a script?***
 

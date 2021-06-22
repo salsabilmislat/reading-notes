@@ -1,6 +1,6 @@
 # **what is Growth mindset?**
 
-*A growth mindset is pepole who believe their talents ,intelegent and understand that their abilities can be developed through*
+    A growth mindset is people who believe their talents, intelligent and understand that their abilities can be developed through
 
 - hard working
 
@@ -14,7 +14,7 @@
 
  ________________
 
- *** for myself to keep  in a growth mindset***
+ ***for myself to keep  in a growth mindset***
 
  1. never gave up
  2. put more effort

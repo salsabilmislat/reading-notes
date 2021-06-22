@@ -1,10 +1,10 @@
 # A short review Structure web pages with HTML
 
-1. **Wireframing**
+1. **Wire framing**
 
    + ***Definition***
 
-   *is a practice used by UX designers which allows us to plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site.wireframing is also a great way of getting to know how a user interacts with your interface, through the positioning of buttons and menus on the diagrams.*
+   *is a practice used by UX designers which allows us to plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site.wire framing is also a great way of getting to know how a user interacts with your interface, through the positioning of buttons and menus on the diagrams.*
 
 2. ***HTML basics***
 

@@ -19,17 +19,17 @@
 
      * ***operators***
 
-       1. *arthmatic operators : -*  + / *
+       1. *arithmetic operators : -*  + / *
 
-       2. *assigment operators : where i can assgin variabels to thier valus (=)*
+       2. *assignment operators : where i can assign variables to their value (=)*
 
-3. ***pop up boxestype***
+3. ***pop up boxes type***
 
     * *alert box*
 
     * *prompt box*
 
-4. ***conditinal statment***
+4. ***conditional statement***
 
     **EXAMPLE**
 
