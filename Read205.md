@@ -1,23 +1,23 @@
-# What we will learn part 1
+# What we will learn
 
-- Imges
+ - Images
 
-- Colores
+ - Colors
 
-- Text
+ - Text
 
 The source of this summary [the Duckett HTML book](https://wtf.tw/ref/duckett.pdf)
 
 ______________________________________
 
-## Imges
+## Images
 
    >A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one.
 
 
 - keeping images in a separate folder helps you understand how the site is organized.
 
-- Adding Images useing the img tag  [img src="the image url " alt="to read img for the one who can not see it" title="title for img" /]
+- Adding Images using  the img tag  [img src="the image url " alt="to read img for the one who can not see it" title="title for img" /]
 
 - Three Rules for Creating Images :
 
@@ -25,9 +25,9 @@ ______________________________________
     - Save images at the right size
     - Use the correct resolution
 
-- HTML5 has introduced a new [figure] element to ontain images and their caption so that the two are associated.
+- HTML5 has introduced a new [figure] element to obtain images and their caption so that the two are associated.
 
-## Colores
+## Colors
 
  > Color can really bring your pages to life.
 
@@ -37,7 +37,7 @@ ______________________________________
    
    - hex codes These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80
 
-   - color names There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
+   - color names There are 147 predefined color names that are recognized by browsers. For example: Dark Cyan
 
 - the background-color property sets the color of the background for that box.
 
