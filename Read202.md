@@ -80,7 +80,7 @@ ______________________________________
 
 - Decisions and Loops
 
-The source of this summary [the Duckett JS book](file:///C:/Users/STUDENT/Downloads/JavaScript%20and%20JQuery_%20Interactive%20Front-End%20Web%20Development_.pdf)
+The source of this summary [the Duckett JS book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F026AD271UG/javascript_and_jquery__interactive_front-end_web_development_.pdf?c=1624715518-be21e32f9bca0681)
 
 ______________________________________
 
