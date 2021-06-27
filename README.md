@@ -32,7 +32,7 @@ __________________
 | Links,Layout & Functions, Methods, and Objects | [Read204](https://salsabilmislat.github.io/reading-notes/Read204)|
 | Imges & colores & text |[Read205](https://salsabilmislat.github.io/reading-notes/Read205)|
 | Object Literals & Document Object Model| [Read206](https://salsabilmislat.github.io/reading-notes/Read206) |
-| Read207 | ----------- |
+| Tables & Functions, Methods, and Objects | [Read207](https://salsabilmislat.github.io/reading-notes/Read207) |
 | Read208 | ----------- |
 | Read209 | ----------- |
 | Read2010 | ----------- |
