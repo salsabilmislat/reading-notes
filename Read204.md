@@ -8,7 +8,7 @@ The source of this summary [the Duckett HTML book](https://wtf.tw/ref/duckett.pd
 
 ______________________________________
 
-## HTML Lists
+## HTML Links
 
   >they allow you to move from one web page to another — enabling the very idea of browsing or surfing.
 
