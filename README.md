@@ -35,7 +35,7 @@ __________________
 | Tables & Functions, Methods, and Objects | [Read207](https://salsabilmislat.github.io/reading-notes/Read207) |
 | Layout | [Read208](https://salsabilmislat.github.io/reading-notes/Read208) |
 | Forms and JS Events| [Read209](https://salsabilmislat.github.io/reading-notes/Read209) |
-| Read2010 | ----------- |
+| Error Handling & Debugging | [Read2010](https://salsabilmislat.github.io/reading-notes/Read2010) |
 | Read2011 | ----------- |
 | Read2012 | ----------- |
 | Read2013 | ----------- |
