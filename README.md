@@ -36,7 +36,7 @@ __________________
 | Layout | [Read208](https://salsabilmislat.github.io/reading-notes/Read208) |
 | Forms and JS Events| [Read209](https://salsabilmislat.github.io/reading-notes/Read209) |
 | Error Handling & Debugging | [Read2010](https://salsabilmislat.github.io/reading-notes/Read2010) |
-| Read2011 | ----------- |
+| Images & Practical Information | [Read2011](https://salsabilmislat.github.io/reading-notes/Read2011) |
 | Read2012 | ----------- |
 | Read2013 | ----------- |
 | Read2014 | ----------- |
