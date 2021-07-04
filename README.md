@@ -37,7 +37,7 @@ __________________
 | Forms and JS Events| [Read209](https://salsabilmislat.github.io/reading-notes/Read209) |
 | Error Handling & Debugging | [Read2010](https://salsabilmislat.github.io/reading-notes/Read2010) |
 | Images & Practical Information | [Read2011](https://salsabilmislat.github.io/reading-notes/Read2011) |
-| Read2012 | ----------- |
+| Charts | [Read2012](https://salsabilmislat.github.io/reading-notes/Read2012) |
 | Read2013 | ----------- |
 | Read2014 | ----------- |
 | Read2015 | ----------- |
