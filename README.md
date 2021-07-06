@@ -39,5 +39,5 @@ __________________
 | Images & Practical Information | [Read2011](https://salsabilmislat.github.io/reading-notes/Read2011) |
 | Charts | [Read2012](https://salsabilmislat.github.io/reading-notes/Read2012) |
 | Local Storage For Web Applications|[Read2013](https://salsabilmislat.github.io/reading-notes/Read2013) |
-| Read2014 | ----------- |
+| CSS Animation | [Read2014a](https://salsabilmislat.github.io/reading-notes/Read2014a) |
 | Read2015 | ----------- |
