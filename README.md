@@ -49,3 +49,4 @@ __________________
 | Topic      | The Link |
 | ----------- | ----------- |
 | Introduction to React and Components | [Read301](https://salsabilmislat.github.io/reading-notes/Read301) |
+| Introduction to React and Components | [Read302](https://salsabilmislat.github.io/reading-notes/Read302) |
