@@ -44,15 +44,15 @@ ______________________________________
 
 **What types of things can you pass in the props?**
 
-props it is like arrgumant to a function , so when we create component in react it will pass props that we would give it . 
+props it is like argument to a function , so when we create component in react it will pass props that we would give it . 
 when we want to display something for the user and it is static not changeable
 
 
 **What is the big difference between props and state?**
 
-the prpos you can pass it into a component and it is update outside the component
+the props you can pass it into a component and it is update outside the component
 
-the state are handeled inside a component also updated inside the component 
+the state are handled inside a component also updated inside the component 
 
 **When do we re-render our application?**
 
