@@ -52,4 +52,4 @@ __________________
 | React and Forms | [Read304](https://salsabilmislat.github.io/reading-notes/Read304) |
 | Thinking in React | [Read305](https://salsabilmislat.github.io/reading-notes/Read305) |
 | Node.js & Pair Programming | [Read306](https://salsabilmislat.github.io/reading-notes/Read306)|
-| Node.js & Pair Programming | [Read307](https://salsabilmislat.github.io/reading-notes/Read307)|
+| REST | [Read307](https://salsabilmislat.github.io/reading-notes/Read307)|
