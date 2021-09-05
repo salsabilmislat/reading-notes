@@ -1,9 +1,8 @@
 # What we will learn
 
- - Node.js
+- Node.js
 
- - Pair Programming
-
+- Pair Programming
 
 The source of this summary [The first link](https://www.sitepoint.com/an-introduction-to-node-js/)
 
@@ -64,14 +63,13 @@ ______________________________________
 
 **In your experience, which of these reasons have you found most beneficial?**
 
-These three reasons: 
+These three reasons:
 
 1. Greater efficiency: when two people focus on the same code base, it is easier to catch mistakes in the making, also produces higher-quality code.
 
 2. Engaged collaboration: he experience is more engaging and both programmers are more focused than if they were working alone.
 
 3. Learning from fellow students:working with a teammate can expose developers to techniques they otherwise would not have thought of.
-
 
 **How does pair programming work?**
 
