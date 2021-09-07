@@ -47,10 +47,11 @@ __________________
 | Topic      | The Link |
 | ----------- | ----------- |
 | Introduction to React and Components | [Read301](https://salsabilmislat.github.io/reading-notes/Read301) |
-| Introduction to React and Components | [Read302](https://salsabilmislat.github.io/reading-notes/Read302) |
+| Component Lifecycle Events | [Read302](https://salsabilmislat.github.io/reading-notes/Read302) |
 | Passing Functions as Props | [Read303](https://salsabilmislat.github.io/reading-notes/Read303) |
 | React and Forms | [Read304](https://salsabilmislat.github.io/reading-notes/Read304) |
 | Thinking in React | [Read305](https://salsabilmislat.github.io/reading-notes/Read305) |
 | Node.js & Pair Programming | [Read306](https://salsabilmislat.github.io/reading-notes/Read306)|
 | REST | [Read307](https://salsabilmislat.github.io/reading-notes/Read307)|
 | REST | [Read308](https://salsabilmislat.github.io/reading-notes/Read308)|
+| FUNCTIONAL PROGRAMMING | [Read309](https://salsabilmislat.github.io/reading-notes/Read309)|
