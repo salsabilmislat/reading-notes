@@ -55,3 +55,4 @@ __________________
 | REST | [Read307](https://salsabilmislat.github.io/reading-notes/Read307)|
 | REST | [Read308](https://salsabilmislat.github.io/reading-notes/Read308)|
 | FUNCTIONAL PROGRAMMING | [Read309](https://salsabilmislat.github.io/reading-notes/Read309)|
+|The JavaScript Call Stack & error messages| [Read3010](https://salsabilmislat.github.io/reading-notes/Read3010)|
