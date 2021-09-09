@@ -56,3 +56,4 @@ __________________
 | REST | [Read308](https://salsabilmislat.github.io/reading-notes/Read308)|
 | FUNCTIONAL PROGRAMMING | [Read309](https://salsabilmislat.github.io/reading-notes/Read309)|
 |The JavaScript Call Stack & error messages| [Read3010](https://salsabilmislat.github.io/reading-notes/Read3010)|
+|SQL vs NoSQL Database| [Read3011](https://salsabilmislat.github.io/reading-notes/Read3011)|
