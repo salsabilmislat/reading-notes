@@ -58,3 +58,4 @@ __________________
 |The JavaScript Call Stack & error messages| [Read3010](https://salsabilmislat.github.io/reading-notes/Read3010)|
 |SQL vs NoSQL Database| [Read3011](https://salsabilmislat.github.io/reading-notes/Read3011)|
 |CRUD| [Read3012](https://salsabilmislat.github.io/reading-notes/Read3012)|
+| Diversity & Inclusion in the Tech Industry | [Read3013](https://salsabilmislat.github.io/reading-notes/Read3013)|
