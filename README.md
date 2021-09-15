@@ -60,3 +60,4 @@ __________________
 |CRUD| [Read3012](https://salsabilmislat.github.io/reading-notes/Read3012)|
 | Diversity & Inclusion in the Tech Industry | [Read3013](https://salsabilmislat.github.io/reading-notes/Read3013)|
 |Authentication | [Read3014](https://salsabilmislat.github.io/reading-notes/Read3014)|
+|summarization | [Read3015](https://salsabilmislat.github.io/reading-notes/Read3015)|

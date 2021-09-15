@@ -1,8 +1,8 @@
 # What we will learn
 
- - Forms
+- Forms
 
- - The Conditional (Ternary) Operator 
+- The Conditional (Ternary) Operator
 
 The source of this summary [The first link](https://reactjs.org/docs/forms.html)
 
@@ -32,7 +32,7 @@ ______________________________________
 
 Shorten your if statements into one line of code with the conditional operator.
 
-**Rewrite the following statement using a ternary statement**
+**Rewrite the following statement using a ternary statement:**
 
 if(x===y){
  console.log(true);
@@ -42,7 +42,6 @@ if(x===y){
 
  let v = (x===y ?  console.log(true) : console.log(false))
 
+## Things I want to know more about
 
- ## Things I want to know more about
- 
 about the Conditional (Ternary) Operator

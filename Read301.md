@@ -1,8 +1,8 @@
 # What we will learn
 
- - Component-Based Architecture
+- Component-Based Architecture
 
- - React JS
+- React JS
 
 The source of this summary [The first link](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
@@ -13,9 +13,9 @@ ______________________________________
 
 ### What is a component?
 
->A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface. 
+>A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
 
-**A component can have three different views**
+**A component can have three different views:**
 
 1. object-oriented view : is viewed as a set of one or more cooperating classes. Each problem domain class (analysis) and infrastructure class (design) are explained to identify all attributes and operations that apply to its implementation.
 
@@ -37,7 +37,6 @@ ______________________________________
 
 6. Independent : designed to have minimal dependencies on other components.
 
-
 ### What are the advantages of using component based architecture?
 
 1. Ease of deployment : it is easier to replace existing versions with no impact on the other components or the system as a whole.
@@ -56,9 +55,7 @@ ______________________________________
 
 8. Independent : Independency and flexible connectivity of components
 
-
 ______________________________________
-
 
 ## React JS
 
@@ -66,26 +63,23 @@ ______________________________________
 
  It is the way to pass data between components in other word is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
 
-
-
 ### How are props used in React?
 
 It has three basic steps:
+
 1. Firstly, define an attribute and its value(data)
 
-**We can define our own attributes & assign values with interpolation { } so it will has a property and a value**
+    **We can define our own attributes & assign values with interpolation { } so it will has a property and a value:**
 
 2. Then pass it to child component(s) by using Props
 
- it is the same way of passing arguments to a function, we  can pass props into a React component and props bring all the necessary data.
+    it is the same way of passing arguments to a function, we  can pass props into a React component and props bring all the necessary data.
 
-2. Finally, render the Props Data
+3. Finally, render the Props Data
 
-as a final the Props returns back an object so we can  access to object elements with dot
+    as a final the Props returns back an object so we can  access to object elements with dot
 
+## Things I want to know more about
 
-## Things I want to know more about 
-
-i want to know more about how i can use react function more in my code. 
+i want to know more about how i can use react function more in my code.
 I am curios more about how to use react in mathmatic examples.
-

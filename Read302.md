@@ -1,8 +1,8 @@
 # What we will learn
 
- - Component Lifecycle Events
+- Component Lifecycle Events
 
- - State and Props
+- State and Props
 
 The source of this summary [The first link](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
@@ -21,7 +21,7 @@ The render happens first then the componentDidMount
 
 in another word The constructor for a React component is called then an instance of a component will be created and inserted into the DOM.
 
-**Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates**
+**Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates.**
 
 1. constructor
 
@@ -39,20 +39,18 @@ help you load anything using a network request or initialize the DOM, also a goo
 
 ______________________________________
 
-
 ## State and Props
 
 **What types of things can you pass in the props?**
 
-props it is like argument to a function , so when we create component in react it will pass props that we would give it . 
+props it is like argument to a function , so when we create component in react it will pass props that we would give it .
 when we want to display something for the user and it is static not changeable
-
 
 **What is the big difference between props and state?**
 
 the props you can pass it into a component and it is update outside the component
 
-the state are handled inside a component also updated inside the component 
+the state are handled inside a component also updated inside the component
 
 **When do we re-render our application?**
 
@@ -62,4 +60,5 @@ whenever there is a change in their state or props. it will be re-rendered autom
 if it is not a static data and you want to update it to the user.
 
 ## Things I want to know more about
+
 to do a real example of react component using with it props and state.

@@ -28,7 +28,7 @@ URIs should be based on nouns (the resource) and not verbs (the operations on th
 
 **Give an example of a good URI.**
 
-https://adventure-works.com/orders A Good URL
+(https://adventure-works.com/orders) A Good URL
 
 **What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?**
 

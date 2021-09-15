@@ -1,8 +1,6 @@
 # What we will learn
 
- - Thinking in React
-
-
+- Thinking in React
 
 The source of this summary [The first link](https://reactjs.org/docs/thinking-in-react.html)
 
