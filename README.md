@@ -70,5 +70,5 @@ __________________
 
 | Topic      | The Link |
 | ----------- | ----------- |
-|python | [Read401](https://salsabilmislat.github.io/reading-notes/Read401)|
-|Topics | [Read402](https://salsabilmislat.github.io/reading-notes/Read402)|
+|python 1 | [Read401](https://salsabilmislat.github.io/reading-notes/Read401)|
+|python 2 | [Read402](https://salsabilmislat.github.io/reading-notes/Read402)|
