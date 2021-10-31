@@ -1,4 +1,6 @@
-# ***Hello everyone 😀***
+# Reading Notes
+
+ ***Hello everyone 😀***
 
 ***my name is salsabil mislat ,I am 25 years old. I graduated from university of Jordan, my major is English-literature and Chinese language.***
 
@@ -6,6 +8,8 @@
 
 😊***nice to meet you all***
 
+
+***This website is My notes about code fellows programing reading you well find the many topics here to read about coding***
 __________________
 
 ## *Code 102- Intro to Software Development Reading Notes*
