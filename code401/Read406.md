@@ -112,7 +112,7 @@ is an essentially an equation that describes how to run scales with respect to s
 3. O(N²) represents an algorithm whose performance is directly proportional to the square of the size of the input data set.
 
 
-**There is four rules to explain the Big O **
+**There is four rules to explain the Big O**
 
 1. Different step added
 
