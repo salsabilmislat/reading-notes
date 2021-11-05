@@ -4,8 +4,6 @@
 
 - Linked Lists
 
-
-
 The source of this summary [The first link](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
 
 The source of this summary [The second link](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)

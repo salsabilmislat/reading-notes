@@ -75,4 +75,4 @@ __________________
 |python 3 | [Read403](https://salsabilmislat.github.io/reading-notes/Read403)|
 |python 4 | [Read404](https://salsabilmislat.github.io/reading-notes/Read404)|
 |python 5 | [Read405](https://salsabilmislat.github.io/reading-notes/Read405)|
-
+|python 6 | [Read406](https://salsabilmislat.github.io/reading-notes/Read406)|
