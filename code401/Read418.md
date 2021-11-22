@@ -1,6 +1,8 @@
 # What we will learn
 
-- Python Regular Expression 
+- Python Regular Expression
+
+- Shutil
 
 The source of this summary [The first link](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
 
