@@ -10,7 +10,7 @@ ______________________________________
 
 ## Intro to Django
 
-**Django is a Python-based free and open-source web framework that follows the model–template–views architectural pattern.also an advanced Web framework written in Python that makes use of the model view controller (MVC) architectural pattern. Django was created in a fast-moving newsroom environment, and its key objective is to ease the development of complicated, database-driven websites.**
+**Django is a Python-based free and open-source web framework that follows the model–template–views architectural pattern. also an advanced Web framework written in Python that makes use of the model view controller (MVC) architectural pattern. Django was created in a fast-moving newsroom environment, and its key objective is to ease the development of complicated, database-driven websites.**
 
 ### Models
 
@@ -22,7 +22,7 @@ ______________________________________
 
 ### Templates
 
-*template is a text document or a Python string marked-up using the Django template language. Some constructs are recognized and interpreted by the template engine. The main ones are variables and tags.A template is rendered with a context. Rendering replaces variables with their values, which are looked up in the context, and executes tags. Everything else is output as is.*
+*template is a text document or a Python string marked-up using the Django template language. Some constructs are recognized and interpreted by the template engine. The main ones are variables and tags. A template is rendered with a context. Rendering replaces variables with their values, which are looked up in the context, and executes tags. Everything else is output as is.*
 
     - Variables are surrounded by {{ and }}
     - Tags are surrounded by {% and %}
