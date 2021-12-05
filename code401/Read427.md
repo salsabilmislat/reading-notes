@@ -71,7 +71,7 @@ ______________________________________
       Email address:
 4. enter the Password in-front of the Password field and press enter.Enter a strong password so as to keep it secure.
 
-      Password: ******  
+      Password: *******  
 
 
 ### Logging in and using the site
