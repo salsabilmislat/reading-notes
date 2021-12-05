@@ -76,4 +76,4 @@ ______________________________________
 
 ### Logging in and using the site
 
-![logging](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site/admin_home.png)
+<img src="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site/admin_home.png" alt=""/>
