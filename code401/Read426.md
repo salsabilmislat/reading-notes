@@ -25,7 +25,7 @@ ______________________________________
 *template is a text document or a Python string marked-up using the Django template language. Some constructs are recognized and interpreted by the template engine. The main ones are variables and tags. A template is rendered with a context. Rendering replaces variables with their values, which are looked up in the context, and executes tags. Everything else is output as is.*
 
     - Variables are surrounded by {{ and }}
-    - Tags are surrounded by ({% and %})
+    - Tags are surrounded by {%  %}
     - Filters transform the values of variables and tag arguments.{{ django|title }}
     - Comments {# this won't be rendered #}
     
