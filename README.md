@@ -81,4 +81,12 @@ __________________
 |python 9 | [Read409](https://salsabilmislat.github.io/reading-notes/Read409)|
 |python 10 | [Read410](https://salsabilmislat.github.io/reading-notes/Read410)|
 |python 11 | [Read411](https://salsabilmislat.github.io/reading-notes/Read411)|
-|python 12 | [Read412](https://salsabilmislat.github.io/reading-notes/Read412)|
+|python 12 | [Read412](./code401/Read412.md)|
+|python 13 | [Read413](./code401/Read413.md)|
+|python 14 | [Read414](./code401/Read414.md)|
+|python 15 | [Read415](./code401/Read415.md)|
+|python 16 | [Read416](./code401/Read416.md)|
+|python 17 | [Read417](./code401/Read417.md)|
+|python 18 | [Read418](./code401/Read418.md)|
+|python 26 | [Read426](./code401/Read426.md)|
+|python 27 | [Read427](./code401/Read427.md)|
