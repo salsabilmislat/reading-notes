@@ -92,3 +92,4 @@ __________________
 |python 27 | [Read427](./code401/Read427.md)|
 |python 28 | [Read428](./code401/Read428.md)|
 |python 29 | [Read429](./code401/Read429.md)|
+|python 30 | [Read430](./code401/Read430.md)|
