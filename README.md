@@ -95,3 +95,4 @@ __________________
 |python 30 | [Read430](./code401/Read430.md)|
 |python 31 | [Read431](./code401/Read431.md)|
 |python 32 | [Read432](./code401/Read432.md)|
+|python 33 | [Read433](./code401/Read433.md)|
