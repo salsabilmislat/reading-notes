@@ -52,8 +52,6 @@ Edges = {(a,c),(b,c),(b,f),(c,e),(d,a),(d,e)(e,c)(e,f)}
 
 *There are many different types of graphs. This depends on how connected the graphs are to other node/vertices.*
 
-#### The three different types are completed, connected, and disconnected.
-
 ### Complete Graphs
 
 *A complete graph is when all nodes are connected to all other nodes.*
