@@ -98,3 +98,4 @@ __________________
 |python 33 | [Read433](./code401/Read433.md)|
 |python 34 | [Read434](./code401/Read434.md)|
 |python 35 | [Read435](./code401/Read435.md)|
+|python 36 | [Read436](./code401/Read436.md)|
