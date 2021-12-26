@@ -103,3 +103,4 @@ __________________
 |python 38 | [Read438](./code401/Read438.md)|
 |python 39 | [Read439](./code401/Read439.md)|
 |python 41 | [Read441](./code401/Read441.md)|
+|python 42 Ethics | [Read442](./code401/Read442.md)|
